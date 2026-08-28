@@ -14,7 +14,7 @@ Hello! I'm Miguel Fernandes and this is my GitHub page!
 
 Here you'll find some of my projects, either for school or myself :)
 
-I'm a System Development Integrated with High School Edcutaion student at the Federal Instituto of São Paulo.
+I'm a System Development Integrated with High School Education student at the Federal Instituto of São Paulo.
 
 ---
 
