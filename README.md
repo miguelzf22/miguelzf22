@@ -30,3 +30,9 @@ I'm a System Development Integrated with High School Education student at the Fe
 ---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=miguelzf22&langs_count=4&hide_values=true&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&hide_values=true)
+
+---
+
+# Alguns dos meus projetos / Some of my projects
+
+## [Aequilibrium](https://github.com/Enkdt/Aequilibrium)
