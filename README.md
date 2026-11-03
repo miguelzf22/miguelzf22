@@ -1,4 +1,4 @@
-## Bem-vindo ao meu GitHub! 🇧🇷
+## Bem-vindo ao meu GitHub!
 
 Olá! Sou o Miguel Fernandes e essa é minha página do GitHub!
 
@@ -8,15 +8,15 @@ Sou estudante de Desenvolvimento de Sistemas Integrado ao Ensino Médio no Insit
 
 ---
 
-# Alguns dos meus projetos / Some of my projects
+## Alguns dos meus projetos / Some of my projects
 
-## [Aequilibrium](https://github.com/Enkdt/Aequilibrium)
+### [Aequilibrium](https://github.com/Enkdt/Aequilibrium)
 
 Um jogo curto estilo Metroidvania onde o jogador toma o papel de um Axolotl que representa o Yin Yang.
 
 Esse projeto foi entregue como trabalho final do nosso 1º ano do ensino médio, feito com GameMaker e Asesprite.
 
-## [Sabor & Clic](https://github.com/Enkdt/Sabor-e-Clic)
+### [Sabor & Clic](https://github.com/Enkdt/Sabor-e-Clic)
 
 Ainda em desenvolvimento, é o nosso trabalho final do 2º ano do ensino médio.
 
@@ -26,7 +26,7 @@ Estamos utilizando *skills* como: Flask e SQLAlchemy para o back-end; e React e 
 
 ---
 
-# Skills:
+## Skills:
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,flask,mysql,html,css,js,gamemakerstudio" alt="https://skillicons.dev"/>
 
