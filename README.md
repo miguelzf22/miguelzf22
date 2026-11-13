@@ -4,7 +4,7 @@ Olá! Sou o Miguel Fernandes e essa é minha página do GitHub!
 
 Aqui você irá encontrar alguns projetos meus, sejam de escola ou pessoais :)
 
-Sou estudante de Desenvolvimento de Sistemas Integrado ao Ensino Médio no Insituto Federal de São Paulo.
+Sou estudante de Desenvolvimento de Sistemas Integrado ao Ensino Médio no Instituto Federal de São Paulo.
 
 Curto bastante programação competitiva e sempre estou buscando melhorar!
 
