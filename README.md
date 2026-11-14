@@ -10,7 +10,7 @@ Curto bastante programação competitiva e sempre estou buscando melhorar!
 
 ---
 
-## Alguns dos meus projetos / Some of my projects
+## Alguns dos meus projetos
 
 ### [Aequilibrium](https://github.com/Enkdt/Aequilibrium)
 
