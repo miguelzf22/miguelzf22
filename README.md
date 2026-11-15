@@ -20,11 +20,11 @@ Esse projeto foi entregue como trabalho final do nosso 1º ano do ensino médio,
 
 ### [Sabor & Clic](https://github.com/Enkdt/Sabor-e-Clic)
 
-Ainda em desenvolvimento, é o nosso trabalho final do 2º ano do ensino médio.
+Agora completo! É o nosso trabalho final do 2º ano do ensino médio.
 
 Uma aplicação web full-stack para cozinheiros independentes, onde podem alugar bancadas de trabalhos e divulgar ou/e vender seus produtos.
 
-Estamos utilizando *skills* como: Flask e SQLAlchemy para o back-end; e React e JavaScript no front-end.
+Estamos utilizando *skills* como: Flask e SQLAlchemy para o back-end; e React e JavaScript no front-end; e ferramentas como Vercel e Neon para colocá-lo no ar.
 
 ---
 
